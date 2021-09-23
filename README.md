@@ -21,6 +21,10 @@
 ## 발표
 |주제|발표자|날짜|발표 자료|
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
+|Api서버를 강력하게 의존하는 뷰를 api요청없이 테스트 하는 방법은 무엇이 있나요?|okstring|210916|[link](https://github.com/okstring/RxSidedish#network-없이-network-request-test)|
+|scene delegate에 대해 설명하시오.|홍|210916||
+|Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|JEJE|210916||
+|Safearea에 대해서 설명하시오.|쏭|210916||
 |정규식 어떻게 사용하는지|Isaac|210909|[link](https://gist.github.com/okstring/cd258187073c515252ebebbad7d248b0)|
 |4.1 버전 미만과 최신버전에서의 배열의 메소드인 FlatMap의 차이는 무엇인가요?|쏭|210909|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/flatmap-and-compactmap.md)|
 |웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작|JEJE|210909||
