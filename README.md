@@ -23,7 +23,7 @@
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
 |UINavigationController 의 역할이 무엇인지 설명하시오.|JEJE|210923||
 |RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.|Isaac|210923|[link](https://velog.io/@okstring/Hot-vs-Cold-Observable-간략하게-이해하기)|
-|`고차 함수가 무엇인지 설명하시오.`,  `Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.`|쏭|210923|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/higher-order-function.md)|
+|고차 함수가 무엇인지 설명하시오. <br>Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.|쏭|210923|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/higher-order-function.md)|
 |Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.|리아|210923||
 |In - active 상태가 되는 시나리오를 설명하시오.|홍|210923||
 |Api서버를 강력하게 의존하는 뷰를 api요청없이 테스트 하는 방법은 무엇이 있나요?|Isaac|210916|[link](https://github.com/okstring/RxSidedish#network-없이-network-request-test)|
