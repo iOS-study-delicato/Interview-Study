@@ -21,6 +21,9 @@
 ## 발표
 |주제|발표자|날짜|발표 자료|
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
+|Concurrent Programming With GCD in Swift 3|Isaac|210930|[link](https://velog.io/@okstring/번역-Concurrent-Programming-With-GCD-in-Swift-3)|
+|shallow copy와 deep copy의 차이점을 설명하시오.|쏭|210930||
+|특정 객체를 autorelease 하기 위해 필요한 사항과 과정을 설명하시오.<br>Autorelease Pool을 사용해야 하는 상황을 두 가지 이상 예로 들어 설명하시오.|JEJE|210930||
 |UINavigationController 의 역할이 무엇인지 설명하시오.|JEJE|210923||
 |RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.|Isaac|210923|[link](https://velog.io/@okstring/Hot-vs-Cold-Observable-간략하게-이해하기)|
 |고차 함수가 무엇인지 설명하시오. <br>Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.|쏭|210923|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/higher-order-function.md)|
