@@ -21,6 +21,10 @@
 ## 발표
 |주제|발표자|날짜|발표 자료|
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
+|앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?|쏭|211007||
+|Use async/await with URLSession|Isaac|211007|[link](https://velog.io/@okstring/번역-Use-async-await-with-URLSession-WWDC-2021)|
+|함수형 프로그래밍이 무엇인지 설명하시오.|JEJE|211007||
+|앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?|홍|211007||
 |Concurrent Programming With GCD in Swift 3|Isaac|210930|[link](https://velog.io/@okstring/번역-Concurrent-Programming-With-GCD-in-Swift-3)|
 |shallow copy와 deep copy의 차이점을 설명하시오.|쏭|210930||
 |특정 객체를 autorelease 하기 위해 필요한 사항과 과정을 설명하시오.<br>Autorelease Pool을 사용해야 하는 상황을 두 가지 이상 예로 들어 설명하시오.|JEJE|210930||
