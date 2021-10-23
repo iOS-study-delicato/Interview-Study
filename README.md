@@ -72,13 +72,13 @@
 | Extension에 대해 설명하시오.                                 | 리아  | 210810 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ProtocolExtension/Lia/001.%20Protocol%2BExtension.md)                                                             ||
 | overloading 과 overriding 차이를 설명해주세요                | JEJE  | 210810 | [link](https://various-elm-582.notion.site/Overriding-vs-overloading-d77212f9006f48e9a31ed497902aed9a) ||
 | forEach / for 차이                                           | 홍    | 210810 |                                                              ||
-| Frame 과 Bounds 의 차이는 무엇인가요?                        | 홍    | 210803 |                                                              ||
-| Bounds 와 Frame 의 차이점을 설명하시오.                      | 홍    | 210803 |                                                              ||
+| Frame 과 Bounds 의 차이는 무엇인가요?                        | 홍    | 210803 |                                                              |211021|
+| Bounds 와 Frame 의 차이점을 설명하시오.                      | 홍    | 210803 |                                                              |211021|
 | if문과 guard 문 차이                                         | JEJE  | 210803 | [link](https://various-elm-582.notion.site/Guard-If-f2126e15878540abb4f64eed8dec84e3) |211014|
-| 접근 제어자의 종류엔 어떤게 있는지 설명하시오.               | 쏭    | 210803 | [link](https://github.com/1song2/interview-cheat-sheet/blob/main/access-control.md) ||
-| defer란 무엇인지 설명하시오.                                 | 리아  | 210803 |  [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ErrorHandling/Lia/003.%20Error%20Handling.md)                                                            ||
-| defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오. | 리아  | 210803 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ErrorHandling/Lia/003.%20Error%20Handling.md) ||
-| 스토리보드를 이용했을때의 장단점을 설명하시오.               | Isaac | 210803 | [link](https://gist.github.com/okstring/ebe8ab80b6fcdf871777842130b644ad) ||
+| 접근 제어자의 종류엔 어떤게 있는지 설명하시오.               | 쏭    | 210803 | [link](https://github.com/1song2/interview-cheat-sheet/blob/main/access-control.md) |211021|
+| defer란 무엇인지 설명하시오.                                 | 리아  | 210803 |  [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ErrorHandling/Lia/003.%20Error%20Handling.md)                                                            |211021|
+| defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오. | 리아  | 210803 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ErrorHandling/Lia/003.%20Error%20Handling.md) |211021|
+| 스토리보드를 이용했을때의 장단점을 설명하시오.               | Isaac | 210803 | [link](https://gist.github.com/okstring/ebe8ab80b6fcdf871777842130b644ad) |211021|
 | strong, weak, unowned 키워드를 어떤 상황에서 사용하고, 차이는 무엇인가요? | JEJE  | 210727 | [link](https://www.notion.so/Strong-Weak-Unowned-6c5f55cc91a64816bbaa94f94bc28a19) |211014|
 | 순환참조는 언제 발생하는지?                                  | 리아  | 210727 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/CaptureList/Lia/002.%20Automatic%20Reference%20Counting.md) |211014|
 | ViewController의 LifeCycle?                                  | 쏭    | 210727 | [link](https://github.com/1song2/interview-cheat-sheet/blob/main/view-controller-life-cycle.md) |211014|
