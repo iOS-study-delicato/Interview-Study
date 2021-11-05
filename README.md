@@ -30,18 +30,6 @@
 ## 발표
 |주제|발표자|날짜|발표 자료|심화|
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |-----|
-|App Bundle의 구조와 역할에 대해 설명하시오.|Isaac|211104|||
-|튜플에 대해서 설명|JEJE|211104|||
-|forEach / for 차이|홍|211104|||
-|GCD API 동작 방식과 필요성에 대해 설명하시오.|리아|211104|||
-|overloading 과 overriding 차이를 설명해주세요.|Isaac|211028|||
-|KVO 동작 방식에 대해 설명하시오.|JEJE|211028|||
-|Extension에 대해 설명하시오.|홍|211028|||
-|Swift에서 Class와 Struct의 차이는 무엇인가요?, class와 struct의 차이점?|쏭|211028|||
-|스토리보드를 이용했을때의 장단점을 설명하시오.|Isaac|211021|||
-|Bounds 와 Frame 의 차이점을 설명하시오.|JEJE|211021|||
-|defer란 무엇인지, 실행순서와 defer가 호출되지 않는 경우를 설명하시오.|홍|211021|||
-|접근 제어자의 종류엔 어떤게 있는지 설명하시오.|쏭|211021|||
 |Meet the UIKit button system, WWDC 2021|모두|211014|||
 |앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?|쏭|211007|||
 |Use async/await with URLSession, WWDC 2021|Isaac|211007|[link](https://velog.io/@okstring/번역-Use-async-await-with-URLSession-WWDC-2021)||
@@ -73,17 +61,17 @@
 | Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오. | 홍    | 210824 |                                                              ||
 | mutating 키워드에 대해 설명하시오.                           | Isaac | 210824 | [link](https://gist.github.com/okstring/62a74299e32b7102c250c87b3c8a6ec2) ||
 | 예외처리(throws) 사용 방법                                   | 리아  | 210824 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ErrorHandling/Lia/003.%20Error%20Handling.md) ||
-| 튜플에 대해서 설명                                           | 홍    | 210817 |                                                              ||
-| Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오. | 리아  | 210817 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/Delegate/Lia/006.Delegate.md)  ||
-| GCD API 동작 방식과 필요성에 대해 설명하시오.                | 쏭    | 210817 |                                                              ||
-| App Bundle의 구조와 역할에 대해 설명하시오.                  | Isaac | 210817 | [link](https://gist.github.com/okstring/1b3588cdba8a416df56939c25d366967) ||
+| 튜플에 대해서 설명                                           | 홍    | 210817 |                                                              |211104|
+| Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오. | 리아  | 210817 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/Delegate/Lia/006.Delegate.md)  |211104|
+| GCD API 동작 방식과 필요성에 대해 설명하시오.                | 쏭    | 210817 |                                                              |211104|
+| App Bundle의 구조와 역할에 대해 설명하시오.                  | Isaac | 210817 | [link](https://gist.github.com/okstring/1b3588cdba8a416df56939c25d366967) |211104|
 | Core Data와 Sqlite 같은 데이터 베이스의 차이점을 설명하시오. | JEJE  | 210817 |  ||
-| Swift에서 Class와 Struct의 차이는 무엇인가요?                | 쏭    | 210810 | [link](https://github.com/1song2/interview-cheat-sheet/blob/main/structures-and-classes.md) ||
-| class와 struct의 차이점?                                     | 쏭    | 210810 |  ||
-| KVO 동작 방식에 대해 설명하시오.                             | Isaac | 210810 | [link](https://gist.github.com/okstring/e2fab9d2a2a82e529888728c040ccd5e) ||
-| Extension에 대해 설명하시오.                                 | 리아  | 210810 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ProtocolExtension/Lia/001.%20Protocol%2BExtension.md)                                                             ||
-| overloading 과 overriding 차이를 설명해주세요                | JEJE  | 210810 | [link](https://various-elm-582.notion.site/Overriding-vs-overloading-d77212f9006f48e9a31ed497902aed9a) ||
-| forEach / for 차이                                           | 홍    | 210810 |                                                              ||
+| Swift에서 Class와 Struct의 차이는 무엇인가요?                | 쏭    | 210810 | [link](https://github.com/1song2/interview-cheat-sheet/blob/main/structures-and-classes.md) |211028|
+| class와 struct의 차이점?                                     | 쏭    | 210810 |  |211028|
+| KVO 동작 방식에 대해 설명하시오.                             | Isaac | 210810 | [link](https://gist.github.com/okstring/e2fab9d2a2a82e529888728c040ccd5e) |211028|
+| Extension에 대해 설명하시오.                                 | 리아  | 210810 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ProtocolExtension/Lia/001.%20Protocol%2BExtension.md)                                                             |211028|
+| overloading 과 overriding 차이를 설명해주세요                | JEJE  | 210810 | [link](https://various-elm-582.notion.site/Overriding-vs-overloading-d77212f9006f48e9a31ed497902aed9a) |211028|
+| forEach / for 차이                                           | 홍    | 210810 |                                                              |211104|
 | Frame 과 Bounds 의 차이는 무엇인가요?                        | 홍    | 210803 |                                                              |211021|
 | Bounds 와 Frame 의 차이점을 설명하시오.                      | 홍    | 210803 |                                                              |211021|
 | if문과 guard 문 차이                                         | JEJE  | 210803 | [link](https://various-elm-582.notion.site/Guard-If-f2126e15878540abb4f64eed8dec84e3) |211014|
