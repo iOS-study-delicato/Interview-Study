@@ -52,15 +52,16 @@
 |웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작|JEJE|210909|||
 |탈출 클로저에 대하여 설명하시오|리아|210909|[link](https://github.com/zzisun/SwiftStudy/tree/master/Study/Escaping%20Closure/Lia)||
 |MVC와 MVVM의 차이점과 각 장단점|홍|210909|[link](https://hongz-developer.tistory.com/132)||
-|의존성 주입에 대하여 설명하시오.|Isaac|210902|[link](https://gist.github.com/okstring/8834792ce488823450ccc1d4e2b081c5)||
-|Optional 이란 무엇인지 설명하시오.|홍|210902|[link](https://hongz-developer.tistory.com/129)||
 |Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.|쏭|210902|||
 |Intrinsic Size에 대해서 설명하시오.|JEJE|210902|||
+| mutating 키워드에 대해 설명하시오.                           | Isaac | 210824 | [link](https://gist.github.com/okstring/62a74299e32b7102c250c87b3c8a6ec2) |211118|
+|의존성 주입에 대하여 설명하시오.|Isaac|210902|[link](https://gist.github.com/okstring/8834792ce488823450ccc1d4e2b081c5)|211118|
+|Optional 이란 무엇인지 설명하시오.|홍|210902|[link](https://hongz-developer.tistory.com/129)|211118|
+| 예외처리(throws) 사용 방법                                   | 리아  | 210824 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ErrorHandling/Lia/003.%20Error%20Handling.md) |211118|
 | Content Hugging Priority의 개념이 무엇이고, 어떤상황에 사용하나요? | JEJE  | 210824 |                                                              |211111|
 | 프로토콜이란 무엇인지 설명하시오.                            | 쏭    | 210824 |                                                              |211111|
 | Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오. | 홍    | 210824 |                                                              |211111|
 | mutating 키워드에 대해 설명하시오.                           | Isaac | 210824 | [link](https://gist.github.com/okstring/62a74299e32b7102c250c87b3c8a6ec2) |211111|
-| 예외처리(throws) 사용 방법                                   | 리아  | 210824 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/ErrorHandling/Lia/003.%20Error%20Handling.md) ||
 | 튜플에 대해서 설명                                           | 홍    | 210817 |                                                              |211104|
 | Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오. | 리아  | 210817 | [link](https://github.com/zzisun/SwiftStudy/blob/master/Study/Delegate/Lia/006.Delegate.md)  |211104|
 | GCD API 동작 방식과 필요성에 대해 설명하시오.                | 쏭    | 210817 |                                                              |211104|
