@@ -48,12 +48,12 @@
 |Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|JEJE|210916|||
 |Safearea에 대해서 설명하시오.|쏭|210916|||
 |정규식 어떻게 사용하는지|Isaac|210909|[link](https://gist.github.com/okstring/cd258187073c515252ebebbad7d248b0)||
-|4.1 버전 미만과 최신버전에서의 배열의 메소드인 FlatMap의 차이는 무엇인가요?|쏭|210909|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/flatmap-and-compactmap.md)||
-|웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작|JEJE|210909|||
-|탈출 클로저에 대하여 설명하시오|리아|210909|[link](https://github.com/zzisun/SwiftStudy/tree/master/Study/Escaping%20Closure/Lia)||
 |MVC와 MVVM의 차이점과 각 장단점|홍|210909|[link](https://hongz-developer.tistory.com/132)||
-|Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.|쏭|210902|||
-|Intrinsic Size에 대해서 설명하시오.|JEJE|210902|||
+|웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작|JEJE|210909|||
+|탈출 클로저에 대하여 설명하시오|리아|210909|[link](https://github.com/zzisun/SwiftStudy/tree/master/Study/Escaping%20Closure/Lia)|211125|
+|4.1 버전 미만과 최신버전에서의 배열의 메소드인 FlatMap의 차이는 무엇인가요?|쏭|210909|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/flatmap-and-compactmap.md)|211125|
+|Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.|쏭|210902||211125|
+|Intrinsic Size에 대해서 설명하시오.|JEJE|210902||211125|
 | mutating 키워드에 대해 설명하시오.                           | Isaac | 210824 | [link](https://gist.github.com/okstring/62a74299e32b7102c250c87b3c8a6ec2) |211118|
 |의존성 주입에 대하여 설명하시오.|Isaac|210902|[link](https://gist.github.com/okstring/8834792ce488823450ccc1d4e2b081c5)|211118|
 |Optional 이란 무엇인지 설명하시오.|홍|210902|[link](https://hongz-developer.tistory.com/129)|211118|
