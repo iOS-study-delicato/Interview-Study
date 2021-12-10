@@ -39,17 +39,17 @@
 |shallow copy와 deep copy의 차이점을 설명하시오.|쏭|210930|||
 |특정 객체를 autorelease 하기 위해 필요한 사항과 과정을 설명하시오.<br>Autorelease Pool을 사용해야 하는 상황을 두 가지 이상 예로 들어 설명하시오.|JEJE|210930|||
 |UINavigationController 의 역할이 무엇인지 설명하시오.|JEJE|210923|||
-|RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.|Isaac|210923|[link](https://velog.io/@okstring/Hot-vs-Cold-Observable-간략하게-이해하기)||
+|RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.|Isaac|210923|[link](https://velog.io/@okstring/Hot-vs-Cold-Observable-간략하게-이해하기)|211209|
 |고차 함수가 무엇인지 설명하시오. <br>Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.|쏭|210923|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/higher-order-function.md)||
 |Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.|리아|210923|||
 |In - active 상태가 되는 시나리오를 설명하시오.|홍|210923|||
-|Api서버를 강력하게 의존하는 뷰를 api요청없이 테스트 하는 방법은 무엇이 있나요?|Isaac|210916|[link](https://github.com/okstring/RxSidedish#network-없이-network-request-test)||
-|scene delegate에 대해 설명하시오.|홍|210916|||
-|Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|JEJE|210916|||
+|Api서버를 강력하게 의존하는 뷰를 api요청없이 테스트 하는 방법은 무엇이 있나요?|Isaac|210916|[link](https://github.com/okstring/RxSidedish#network-없이-network-request-test)|211209|
+|scene delegate에 대해 설명하시오.|홍|210916||211209|
+|Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|JEJE|210916||211209|
 |Safearea에 대해서 설명하시오.|쏭|210916|||
 |정규식 어떻게 사용하는지|Isaac|210909|[link](https://gist.github.com/okstring/cd258187073c515252ebebbad7d248b0)||
-|MVC와 MVVM의 차이점과 각 장단점|홍|210909|[link](https://hongz-developer.tistory.com/132)||
-|웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작|JEJE|210909|||
+|MVC와 MVVM의 차이점과 각 장단점|홍|210909|[link](https://hongz-developer.tistory.com/132)|211202|
+|웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작|JEJE|210909||211202|
 |탈출 클로저에 대하여 설명하시오|리아|210909|[link](https://github.com/zzisun/SwiftStudy/tree/master/Study/Escaping%20Closure/Lia)|211125|
 |4.1 버전 미만과 최신버전에서의 배열의 메소드인 FlatMap의 차이는 무엇인가요?|쏭|210909|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/flatmap-and-compactmap.md)|211125|
 |Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.|쏭|210902||211125|
