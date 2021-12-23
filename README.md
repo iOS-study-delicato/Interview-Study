@@ -38,10 +38,10 @@
 |Concurrent Programming With GCD in Swift 3, WWDC 2016|Isaac|210930|[link](https://velog.io/@okstring/번역-Concurrent-Programming-With-GCD-in-Swift-3)||
 |shallow copy와 deep copy의 차이점을 설명하시오.|쏭|210930|||
 |특정 객체를 autorelease 하기 위해 필요한 사항과 과정을 설명하시오.<br>Autorelease Pool을 사용해야 하는 상황을 두 가지 이상 예로 들어 설명하시오.|JEJE|210930|||
-|UINavigationController 의 역할이 무엇인지 설명하시오.|JEJE|210923|||
+|UINavigationController 의 역할이 무엇인지 설명하시오.|JEJE|210923||211216|
 |RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.|Isaac|210923|[link](https://velog.io/@okstring/Hot-vs-Cold-Observable-간략하게-이해하기)|211209|
-|고차 함수가 무엇인지 설명하시오. <br>Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.|쏭|210923|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/higher-order-function.md)||
-|Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.|리아|210923|||
+|고차 함수가 무엇인지 설명하시오. <br>Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.|쏭|210923|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/higher-order-function.md)|211216|
+|Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.|리아|210923||211216|
 |In - active 상태가 되는 시나리오를 설명하시오.|홍|210923|||
 |Api서버를 강력하게 의존하는 뷰를 api요청없이 테스트 하는 방법은 무엇이 있나요?|Isaac|210916|[link](https://github.com/okstring/RxSidedish#network-없이-network-request-test)|211209|
 |scene delegate에 대해 설명하시오.|홍|210916||211209|
