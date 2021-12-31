@@ -33,16 +33,16 @@
 |Meet the UIKit button system, WWDC 2021|모두|211014|||
 |앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?|쏭|211007|||
 |Use async/await with URLSession, WWDC 2021|Isaac|211007|[link](https://velog.io/@okstring/번역-Use-async-await-with-URLSession-WWDC-2021)||
-|함수형 프로그래밍이 무엇인지 설명하시오.|JEJE|211007|||
+|함수형 프로그래밍이 무엇인지 설명하시오.|JEJE|211007||211223|
 |앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?|홍|211007|||
 |Concurrent Programming With GCD in Swift 3, WWDC 2016|Isaac|210930|[link](https://velog.io/@okstring/번역-Concurrent-Programming-With-GCD-in-Swift-3)||
-|shallow copy와 deep copy의 차이점을 설명하시오.|쏭|210930|||
-|특정 객체를 autorelease 하기 위해 필요한 사항과 과정을 설명하시오.<br>Autorelease Pool을 사용해야 하는 상황을 두 가지 이상 예로 들어 설명하시오.|JEJE|210930|||
+|shallow copy와 deep copy의 차이점을 설명하시오.|쏭|210930||211223|
+|특정 객체를 autorelease 하기 위해 필요한 사항과 과정을 설명하시오.<br>Autorelease Pool을 사용해야 하는 상황을 두 가지 이상 예로 들어 설명하시오.|JEJE|210930||211223|
 |UINavigationController 의 역할이 무엇인지 설명하시오.|JEJE|210923||211216|
 |RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.|Isaac|210923|[link](https://velog.io/@okstring/Hot-vs-Cold-Observable-간략하게-이해하기)|211209|
 |고차 함수가 무엇인지 설명하시오. <br>Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.|쏭|210923|[link](https://github.com/1song2/interview-cheat-sheet/blob/main/higher-order-function.md)|211216|
 |Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.|리아|210923||211216|
-|In - active 상태가 되는 시나리오를 설명하시오.|홍|210923|||
+|In - active 상태가 되는 시나리오를 설명하시오.|홍|210923||211223|
 |Api서버를 강력하게 의존하는 뷰를 api요청없이 테스트 하는 방법은 무엇이 있나요?|Isaac|210916|[link](https://github.com/okstring/RxSidedish#network-없이-network-request-test)|211209|
 |scene delegate에 대해 설명하시오.|홍|210916||211209|
 |Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|JEJE|210916||211209|
